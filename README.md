@@ -8,6 +8,7 @@
 
 ## 1. test container 실행을 위한 application.yaml 파일 설정
   - mysql test container 사용
+
     ```yaml
     spring:
       datasource:
