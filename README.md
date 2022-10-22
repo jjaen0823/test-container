@@ -36,7 +36,7 @@
 ### 2.4 테스트 확인
   ![img.png](./resources/test-query.png)
 
-  ![img.png](./resources/ddl-success.png)
+  ![image](https://user-images.githubusercontent.com/75469281/197316815-4fdf0609-5b78-4927-97f6-9f85004a7c6d.png)
 
 
 <br>
